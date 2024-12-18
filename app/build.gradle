@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "com.iscgar.android.xposed.dialer.recording_announcement_off"
-        minSdk 16
+        minSdk 18
         targetSdk 33
         versionCode 1
         versionName "1.0"
